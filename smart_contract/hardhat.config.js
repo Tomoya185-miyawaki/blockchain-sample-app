@@ -1,5 +1,6 @@
 // https://eth-goerli.g.alchemy.com/v2/FjXZz6VjF48QronqEcE_ccerU-fQmGy9
 require("@nomicfoundation/hardhat-toolbox");
+require("dotenv").config();
 
 /** @type import('hardhat/config').HardhatUserConfig */
 module.exports = {
